@@ -1,0 +1,13 @@
+# Archivos compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos temporales
+*.tmp
+*.log
+*.swp
+
+# Carpeta de Visual Studio
+.vscode/
