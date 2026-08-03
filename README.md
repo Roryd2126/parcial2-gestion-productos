@@ -7,7 +7,6 @@ Este proyecto implementa un sistema de gestión de productos para una tienda en 
 
 Tecnologías utilizadas
 - **Lenguaje:** C++
-- **Compilador:** g++
 - **Control de versiones:** Git + GitHub
 
 Algoritmos implementados
